@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="websocket_server" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="web_socket_server_env" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="web_socket_server" project-jdk-type="Python SDK" />
 </project>
